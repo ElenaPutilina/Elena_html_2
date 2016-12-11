@@ -1,0 +1,49 @@
+body{
+			width: 800px;
+			height: 800px;
+			background: white url();
+	}
+	h2{
+			width: 400px;
+			height: 30px;	
+			background: white url() center no-repeat;
+			margin: 5px 480px 5px;
+	}
+	div{
+			width: 700px;
+			height: 700px;
+			background: white url() center no-repeat;
+			margin: 5px 300px;
+	}
+	img{
+			width: 200px;
+			height: 300px;
+			background: white url(me.jpg) center no-repeat;
+			margin: 5px 250px 5px;
+	}
+	hr{
+			width: 500px;
+			height: 2px;
+			margin: 5px 100px 5px;
+	}
+	ul{
+			width: 300px;
+			height: 150px;
+			background: white url() center no-repeat;
+			margin: 5px 220px 5px;
+	}
+	p{
+			width: 300px;
+			height: 20px;	
+			background: white url() center no-repeat;
+			margin: 5px 250px 5px;
+	}
+	.text{
+		color: grey;
+	}
+	h3{
+			width: 300px;
+			height: 20px;	
+			background: white url() center no-repeat;
+			margin: 5px 200px 5px;
+	}
